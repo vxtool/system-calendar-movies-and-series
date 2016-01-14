@@ -1,4 +1,4 @@
-# Sequência de Fibonacci
+# Sistema de calendário de filmes e séries
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/system-solutions/system-calendar-movies-and-series/blob/master/LICENSE.md)
 [![issues](https://img.shields.io/github/issues/system-solutions/system-calendar-movies-and-series.svg)](https://github.com/system-solutions/system-calendar-movies-and-series/issues)
