@@ -1,7 +1,7 @@
 # Sistema de calendário de filmes e séries
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/system-solutions/system-calendar-movies-and-series/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/system-solutions/system-calendar-movies-and-series.svg)](https://github.com/system-solutions/system-calendar-movies-and-series/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![issues](https://img.shields.io/github/issues/system-solutions/system-calendar-movies-and-series.svg?style=flat-square)](https://github.com/system-solutions/system-calendar-movies-and-series/issues)
 
 ## Contributing
 
