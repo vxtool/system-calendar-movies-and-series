@@ -1,7 +1,12 @@
 # Sistema de calendário de filmes e séries
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/system-calendar-movies-and-series.svg?style=flat-square)](https://github.com/descco-tools/system-calendar-movies-and-series/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/system-calendar-movies-and-series.svg)](https://github.com/org-victorinox/system-calendar-movies-and-series/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/system-calendar-movies-and-series.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/system-calendar-movies-and-series.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/system-calendar-movies-and-series.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/system-calendar-movies-and-series.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/system-calendar-movies-and-series/total.svg)
 
 ```
 https://www.googleapis.com/customsearch/v1?key=AIzaSyDKFl4kR7bH5lF6E2lLt0owLlCG6FE6fwE&cx=002303175733485268545:omuauf_lfve&q=movies&callback=hndlr
@@ -17,7 +22,7 @@ https://www.googleapis.com/customsearch/v1?key=AIzaSyDKFl4kR7bH5lF6E2lLt0owLlCG6
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/system-calendar-movies-and-series/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/system-calendar-movies-and-series/releases) for detailed changelog.
 
 ## License
 
